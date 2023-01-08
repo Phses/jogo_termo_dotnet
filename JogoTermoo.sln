@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Termoo", "Termoo\Termoo.csproj", "{1A0FB5FC-0AF0-43F3-AB5D-D91117E532E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteJogo", "TesteJogo\TesteJogo.csproj", "{D951F3AF-DC1E-4CF0-AE09-FA38CEFF870C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A0FB5FC-0AF0-43F3-AB5D-D91117E532E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A0FB5FC-0AF0-43F3-AB5D-D91117E532E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A0FB5FC-0AF0-43F3-AB5D-D91117E532E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A0FB5FC-0AF0-43F3-AB5D-D91117E532E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D951F3AF-DC1E-4CF0-AE09-FA38CEFF870C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D951F3AF-DC1E-4CF0-AE09-FA38CEFF870C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D951F3AF-DC1E-4CF0-AE09-FA38CEFF870C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D951F3AF-DC1E-4CF0-AE09-FA38CEFF870C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+c:\Users\phsou\Documents\raro_academy\exercicios\termoo\Termoo\bin\Debug\net6.0\Termoo.exe
+c:\Users\phsou\Documents\raro_academy\exercicios\termoo\Termoo\bin\Debug\net6.0\Termoo.deps.json
+c:\Users\phsou\Documents\raro_academy\exercicios\termoo\Termoo\bin\Debug\net6.0\Termoo.runtimeconfig.json
+c:\Users\phsou\Documents\raro_academy\exercicios\termoo\Termoo\bin\Debug\net6.0\Termoo.dll
+c:\Users\phsou\Documents\raro_academy\exercicios\termoo\Termoo\bin\Debug\net6.0\Termoo.pdb
+c:\Users\phsou\Documents\raro_academy\exercicios\termoo\Termoo\obj\Debug\net6.0\Termoo.csproj.AssemblyReference.cache
+c:\Users\phsou\Documents\raro_academy\exercicios\termoo\Termoo\obj\Debug\net6.0\Termoo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\phsou\Documents\raro_academy\exercicios\termoo\Termoo\obj\Debug\net6.0\Termoo.AssemblyInfoInputs.cache
+c:\Users\phsou\Documents\raro_academy\exercicios\termoo\Termoo\obj\Debug\net6.0\Termoo.AssemblyInfo.cs
+c:\Users\phsou\Documents\raro_academy\exercicios\termoo\Termoo\obj\Debug\net6.0\Termoo.csproj.CoreCompileInputs.cache
+c:\Users\phsou\Documents\raro_academy\exercicios\termoo\Termoo\obj\Debug\net6.0\Termoo.dll
+c:\Users\phsou\Documents\raro_academy\exercicios\termoo\Termoo\obj\Debug\net6.0\refint\Termoo.dll
+c:\Users\phsou\Documents\raro_academy\exercicios\termoo\Termoo\obj\Debug\net6.0\Termoo.pdb
+c:\Users\phsou\Documents\raro_academy\exercicios\termoo\Termoo\obj\Debug\net6.0\Termoo.genruntimeconfig.cache
+c:\Users\phsou\Documents\raro_academy\exercicios\termoo\Termoo\obj\Debug\net6.0\ref\Termoo.dll
